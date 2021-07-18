@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "types.h": "c",
+    "in.h": "c",
+    "cstdlib": "c",
+    "socket.h": "c",
+    "stdlib.h": "c",
+    "netdb.h": "c",
+    "stdio.h": "c",
+    "pthread.h": "c",
+    "functional": "c"
+  }
+}
